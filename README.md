@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicolas Pint0
   
 - Frontend Developer specializing in React, with expertise in HTML, CSS, and JavaScript, focused on creating
-  innovative and scalable digital solutions. Over 3 years of learning and web development projects, I have built
+  innovative and scalable digital solutions. Over 4 years of learning and web development projects, I have built
   applications with visually appealing and functional interfaces, implemented APIs, and optimized user
   experience. I’ve contributed to personal and company collaborations, with hands-on experience in platform
   migration and digital portal maintenance.
