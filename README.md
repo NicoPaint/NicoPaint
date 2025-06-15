@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nicolas Pinto
+👋 Hi, I’m Nicolas Pinto
   
-- Frontend engineer specialized in React.js with hands-on experience delivering scalable, high-impact web
+Frontend engineer specialized in React.js with hands-on experience delivering scalable, high-impact web
 solutions. I’ve contributed to real-world projects involving website migration, digital portal development, and
 new feature implementation for both internal teams and clients. With a strong foundation in HTML, CSS, and
 JavaScript, I build responsive and maintainable interfaces that enhance user experience. My professional
